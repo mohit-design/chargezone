@@ -19,16 +19,12 @@ a:focus { outline: 0; text-decoration: none; -webkit-transition: 0.5s ease; -moz
 
 /*------- Common CSS Starts -------*/
 
-html,
 body {
   background: -webkit-linear-gradient(#000000, #303030);
   background: -moz-linear-gradient(#000000, #303030);
   background: -ms-linear-gradient(#000000, #303030);
   background: -o-linear-gradient(#000000, #303030);
   background: linear-gradient(#000000, #303030);
-  background-position: right;
-  background-repeat: no-repeat;
-  background-size: 100px 100%, 100%;
   display: none;
 }
 

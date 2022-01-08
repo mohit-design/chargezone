@@ -2,7 +2,6 @@
 
 /*------- Common CSS Starts -------*/
 
-html,
 body {
   display: block;
 }
@@ -23,7 +22,7 @@ body {
   box-shadow: 8px 8px 30px 0 rgb(0 0 0 / 30%);
 }
 .btn-common {
-  background-color: #BE210B;
+  background-color: #be210b;
   -webkit-border-radius: 40px;
   -moz-border-radius: 40px;
   -ms-border-radius: 40px;
