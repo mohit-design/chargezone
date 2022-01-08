@@ -486,6 +486,7 @@ input[class="input-pay"]:checked + span + span {
 
 /*------- Contact Us Page Starts -------*/
 
+.bg-contact-us { height: calc(100% - 100px); padding: 15px; }
 .box-contact-info { background-color: #141414; -webkit-border-radius: 10px; -moz-border-radius: 10px; -ms-border-radius: 10px; -o-border-radius: 10px; border-radius: 10px; padding: 15px; }
 .box-contact-info > p { color: #ffffff; font: 1.6rem/1.4 "GoogleSans-Regular"; }
 .box-contact-info > p > a { color: #be210b; }
