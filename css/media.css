@@ -471,4 +471,14 @@ input[class="input-pay"]:checked + span + span {
 
 /*------- Help Page Ends -------*/
 
+/*------- Privacy Policy Page Starts -------*/
+
+.bg-pri-poli { padding: 15px; }
+.pri-poli-heading > h4 { color: #ffffff; font: 1.8rem/18px "GoogleSans-Medium"; margin-bottom: 15px; text-transform: uppercase; }
+.pri-poli-info { background-color: #141414; -webkit-border-radius: 10px; -moz-border-radius: 10px; -ms-border-radius: 10px; -o-border-radius: 10px; border-radius: 10px; padding: 15px; }
+.pri-poli-info > p { color: #b5b5b5; font: 1.6rem/1.7 "GoogleSans-Regular"; margin-bottom: 15px; text-align: justify; }
+.pri-poli-info > p:last-child { margin-bottom: 0; }
+
+/*------- Privacy Policy Page Ends -------*/
+
 }
