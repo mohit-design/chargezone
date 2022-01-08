@@ -11,6 +11,9 @@ html { letter-spacing: 1px; }
 ul,
 h4 { margin: 0; padding: 0; }
 li { list-style-type: none; }
+a,
+a:hover,
+a:focus { outline: 0; text-decoration: none; -webkit-transition: 0.5s ease; -moz-transition: 0.5s ease; -ms-transition: 0.5s ease; -o-transition: 0.5s ease; transition: 0.5s ease; }
 
 /*------- Reset CSS Ends -------*/
 

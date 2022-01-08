@@ -68,7 +68,7 @@ body {
 .menu-listing > li:last-child { margin-bottom: 0; }
 .menu-listing > li > a { color: #ffffff; display: block; font: 3rem/1 "GoogleSans-Regular"; letter-spacing: 2px; text-align: center; text-transform: uppercase; }
 .menu-listing > li.active > a,
-.menu-listing > li > a:hover { color: #17eeee; letter-spacing: 10px; }
+.menu-listing > li > a:hover { color: #17eeee; }
 
   /*------- Menu Section Ends -------*/
 
@@ -478,9 +478,18 @@ input[class="input-pay"]:checked + span + span {
 .bg-pri-poli { padding: 15px; }
 .pri-poli-heading > h4 { color: #ffffff; font: 1.8rem/18px "GoogleSans-Medium"; margin-bottom: 15px; text-transform: uppercase; }
 .pri-poli-info { background-color: #141414; -webkit-border-radius: 10px; -moz-border-radius: 10px; -ms-border-radius: 10px; -o-border-radius: 10px; border-radius: 10px; padding: 15px; }
-.pri-poli-info > p { color: #b5b5b5; font: 1.6rem/1.7 "GoogleSans-Regular"; margin-bottom: 15px; text-align: justify; }
-.pri-poli-info > p:last-child { margin-bottom: 0; }
+.pri-poli-info > p { color: #b5b5b5; font: 1.6rem/1.7 "GoogleSans-Regular"; margin-bottom: 15px; }
+.pri-poli-info > p:last-child,
+.box-contact-info > p:last-child { margin-bottom: 0; }
 
 /*------- Privacy Policy Page Ends -------*/
+
+/*------- Contact Us Page Starts -------*/
+
+.box-contact-info { background-color: #141414; -webkit-border-radius: 10px; -moz-border-radius: 10px; -ms-border-radius: 10px; -o-border-radius: 10px; border-radius: 10px; padding: 15px; }
+.box-contact-info > p { color: #ffffff; font: 1.6rem/1.4 "GoogleSans-Regular"; }
+.box-contact-info > p > a { color: #be210b; }
+
+/*------- Contact Us Page Ends -------*/
 
 }
