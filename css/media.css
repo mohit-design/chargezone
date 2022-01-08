@@ -68,7 +68,7 @@ body {
 .menu-listing > li:last-child { margin-bottom: 0; }
 .menu-listing > li > a { color: #ffffff; display: block; font: 3rem/1 "GoogleSans-Regular"; letter-spacing: 2px; text-align: center; text-transform: uppercase; }
 .menu-listing > li.active > a,
-.menu-listing > li > a:hover { color: #ffffff; letter-spacing: 10px; }
+.menu-listing > li > a:hover { color: #17eeee; letter-spacing: 10px; }
 
   /*------- Menu Section Ends -------*/
 
@@ -466,8 +466,7 @@ input[class="input-pay"]:checked + span + span {
 
 /*------- Help Page Starts -------*/
 
-.contact-info { bottom: 15px; left: 50%; position: fixed; transform: translateX(-50%); -webkit-transform: translateX(-50%); -moz-transform: translateX(-50%); -ms-transform: translateX(-50%); -o-transform: translateX(-50%); width: 100%; }
-.contact-info > p { color: #ffffff; font: 1.4rem/1 "GoogleSans-Regular"; text-align: center; }
+.contact-info > p { color: #ffffff; font: 1.6rem/1 "GoogleSans-Regular"; margin-top: 15px; text-align: center; }
 .contact-info > p > a { color: #be210b; text-decoration: underline; }
 
 /*------- Help Page Ends -------*/
