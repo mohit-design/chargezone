@@ -1,0 +1,28 @@
+/*------- Font Family Starts -------*/
+
+@font-face { font-family: "GoogleSans-Regular"; src: url("../fonts/GoogleSans-Regular.ttf"); }
+@font-face { font-family: "GoogleSans-Medium"; src: url("../fonts/GoogleSans-Medium.ttf"); }
+
+/*------- Font Family Ends -------*/
+
+/*------- Reset CSS Starts -------*/
+
+html { letter-spacing: 1px; }
+ul,
+h4 { margin: 0; padding: 0; }
+li { list-style-type: none; }
+
+/*------- Reset CSS Ends -------*/
+
+/*------- Common CSS Starts -------*/
+
+body {
+  background: -webkit-linear-gradient(#000000, #303030);
+  background: -moz-linear-gradient(#000000, #303030);
+  background: -ms-linear-gradient(#000000, #303030);
+  background: -o-linear-gradient(#000000, #303030);
+  background: linear-gradient(#000000, #303030);
+  display: none;
+}
+
+/*------- Common CSS Ends -------*/
