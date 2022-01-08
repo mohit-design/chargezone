@@ -108,7 +108,9 @@ body {
 .card-info-listing > li > span:first-child { font: 1.6rem/16px "GoogleSans-Medium"; }
 .card-info-listing > li > span:last-child { font: 1.6rem/16px "GoogleSans-Regular"; }
 .bg-form { padding: 15px; }
-.enter-details-heading > h4 { color: #ffffff; font: 1.8rem/18px "GoogleSans-Medium"; margin-bottom: 30px; text-transform: uppercase; }
+.enter-details-heading > h4,
+.contact-us-heading > h4 { color: #ffffff; font: 1.8rem/18px "GoogleSans-Medium"; margin-bottom: 30px; text-transform: uppercase; }
+.contact-us-heading > h4 { margin-bottom: 15px; }
 .box-form { background-color: #141414; -webkit-border-radius: 10px; -moz-border-radius: 10px; -ms-border-radius: 10px; -o-border-radius: 10px; border-radius: 10px; padding: 30px 15px 15px; }
 .form-group-element {
   margin-bottom: 30px;
