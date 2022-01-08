@@ -60,7 +60,7 @@ body {
 
   /*------- Menu Section Starts -------*/
 
-.fixed-navbar-menu { background-color: #161616; bottom: 0; -webkit-clip-path: circle(20px at 90% 8%); clip-path: circle(20px at 90% 8%); display: block; height: 100%; left: 0; position: fixed; right: 0; top: 0; -webkit-transition: 1s ease 0.3s; -moz-transition: 1s ease 0.3s; -ms-transition: 1s ease 0.3s; -o-transition: 1s ease 0.3s; transition: 1s ease 0.3s; width: 100%; z-index: 9; }
+.fixed-navbar-menu { background-color: #161616; bottom: 0; -webkit-clip-path: circle(0 at 90% 8%); clip-path: circle(0 at 90% 8%); display: block; height: 100%; left: 0; position: fixed; right: 0; top: 0; -webkit-transition: 1s ease 0.3s; -moz-transition: 1s ease 0.3s; -ms-transition: 1s ease 0.3s; -o-transition: 1s ease 0.3s; transition: 1s ease 0.3s; width: 100%; z-index: 9; }
 .fixed-navbar-menu.active { -webkit-clip-path: circle(1000px at 50% -5%); clip-path: circle(1000px at 50% -5%); -webkit-transition: 2s ease; -moz-transition: 2s ease; -ms-transition: 2s ease; -o-transition: 2s ease; transition: 2s ease; }
 .menu-listing { left: 50%; opacity: 0; position: absolute; top: 40%; -webkit-transform: translate(-50%,-50%); -moz-transform: translate(-50%,-50%); -ms-transform: translate(-50%,-50%); -o-transform: translate(-50%,-50%); transform: translate(-50%,-50%); -webkit-transition: 1s ease; -moz-transition: 1s ease; -ms-transition: 1s ease; -o-transition: 1s ease; transition: 1s ease; visibility: hidden; width: 100%; z-index: 10; }
 .menu-listing.active { opacity: 1; top: 50%; -webkit-transition: 1s ease 0.25s; -moz-transition: 1s ease 0.25s; -ms-transition: 1s ease 0.25s; -o-transition: 1s ease 0.25s; transition: 1s ease 0.25s; visibility: visible; }
