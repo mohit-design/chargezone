@@ -19,6 +19,7 @@ a:focus { outline: 0; text-decoration: none; -webkit-transition: 0.5s ease; -moz
 
 /*------- Common CSS Starts -------*/
 
+html,
 body {
   background: -webkit-linear-gradient(#000000, #303030);
   background: -moz-linear-gradient(#000000, #303030);
@@ -26,6 +27,7 @@ body {
   background: -o-linear-gradient(#000000, #303030);
   background: linear-gradient(#000000, #303030);
   display: none;
+  height: 100%;
 }
 
 /*------- Common CSS Ends -------*/
